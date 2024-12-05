@@ -1,5 +1,5 @@
 # i915-sriov-auto
-对原仓库[i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) 
+对原仓库[strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) 
 在pve7、pve8系统上实现自动化部署
 实现11代以上intel核显自动安装i915 dkms驱动，并配置sriov核显
 
