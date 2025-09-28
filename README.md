@@ -10,3 +10,7 @@ It is generally necessary to run this script twice (caused by automatic kernel u
 i915auto.sh是一键安装intel sriov vgpu脚本（直接全部复制贴pve终端运行就是）。
 
 The i915auto.sh is a one-click installation script for Intel SR-IOV vGPU (simply copy and paste the entire script into the Proxmox VE terminal to run it).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lixiaoliu666/i915-sriov-auto&type=Date)](https://www.star-history.com/#lixiaoliu666/i915-sriov-auto&Date)
